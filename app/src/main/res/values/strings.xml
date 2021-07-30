@@ -3,4 +3,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="country_fragment">Country fragment</string>
     <string name="favorite_fragment">Favourite fragment</string>
+    <string name="favorites_text">favorites</string>
+    <string name="countries_text">countries</string>
 </resources>
